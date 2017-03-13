@@ -1,20 +1,20 @@
 # learn
 
-#### sass
-#### gulp
-#### webpack
-#### swiper.js
-#### fullpage.js
-#### superslide.js
-#### jqMobile
-#### SenCha Touch
-#### Frozen UI
-#### animate.css
-#### axios
-#### koa
-#### express
-#### metronic
-#### coreadmin
+* sass
+* gulp
+* webpack
+* swiper.js
+* fullpage.js
+* superslide.js
+* jqMobile
+* SenCha Touch
+* Frozen UI
+* animate.css
+* axios
+* koa
+* express
+* metronic
+* coreadmin
 
   [正则表达式](http://louiszhai.github.io/2016/06/13/regexp/)
 
