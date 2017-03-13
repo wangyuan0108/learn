@@ -4,31 +4,35 @@ sass、gulp、 webpack、 swiper.js、 fullpage.js、 superslide.js、 jqMobile�
 metronic
 coreadmin
 
-  *[正则表达式](http://louiszhai.github.io/2016/06/13/regexp/)
+  [正则表达式](http://louiszhai.github.io/2016/06/13/regexp/)
 
-  *[react](https://ant.design/docs/react/introduce)
+  [react](https://ant.design/docs/react/introduce)
 
-  *[rem屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md)
+  [rem屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md)
 
   segmentfault.com
 
-  *[上线项目01](http://www.zzbaoguan.com/)
-http://www.zqrck.com 上线项目
+  [上线项目01](http://www.zzbaoguan.com/)
 
-http://www.cnblogs.com/ganmy/p/6029774.html  vue环境搭建
-http://www.open-open.com/lib/view/open1476240930270.html  vue环境搭建
-http://www.jianshu.com/p/a8701d724e70 vue环境搭建
-http://www.jb51.net/article/96966.htm vue环境搭建
+  [vue环境搭建01](http://www.cnblogs.com/ganmy/p/6029774.html)
 
-http://jiongks.name/blog/just-vue项目实战
-https://segmentfault.com/a/1190000007556806  vue项目
-http://www.cnblogs.com/wisewrong/p/6255817.html    vue-cli
+  [vue环境搭建02](http://www.open-open.com/lib/view/open1476240930270.html)
 
-https://github.com/nicejade/Front-end-tutorial 前端资料
+  [vue环境搭建03](http://www.jianshu.com/p/a8701d724e70)
 
-https://tianxiangbing.github.io/react-cn/docs/getting-started.html     react文档
+  [vue环境搭建04](http://www.jb51.net/article/96966.htm)
 
-http://www.zhangxinxu.com/jq/stylus/  css预编译
+  [项目实战](http://jiongks.name/blog/just-vue)
+
+  [vue项目](https://segmentfault.com/a/1190000007556806)
+
+  [vue-cli](http://www.cnblogs.com/wisewrong/p/6255817.html)
+
+  [前端资料](https://github.com/nicejade/Front-end-tutorial)
+
+  [react文档](https://tianxiangbing.github.io/react-cn/docs/getting-started.html)
+
+  [css预编译](http://www.zhangxinxu.com/jq/stylus/)
 
 AppID       wx6bc84180c30734f0
 AppSecret   87f7bdc12cd1e721d99e5efd9d2933c7
@@ -40,7 +44,7 @@ AppSecret   87f7bdc12cd1e721d99e5efd9d2933c7
 
 凡事换个角度，假如你是我，你未必有我大度 ！
 
-
+```
   var Dpr = 1, uAgent = window.navigator.userAgent;
         var isIOS = uAgent.match(/iphone/i);
         var isYIXIN = uAgent.match(/yixin/i);
@@ -97,6 +101,7 @@ AppSecret   87f7bdc12cd1e721d99e5efd9d2933c7
 
 
 
+
 function adapt(designWidth, rem2px){
   var d = window.document.createElement('div');
   d.style.width = '1rem';
@@ -114,3 +119,4 @@ function adapt(designWidth, rem2px){
   return defaultFontSize
 };
 var defaultFontSize = adapt(640, 100);
+```
