@@ -3,7 +3,7 @@
 sass、gulp、 webpack、 swiper.js、 fullpage.js、 superslide.js、 jqMobile、 SenCha Touch、Frozen UI、animate.css、axios、koa、express
 metronic
 coreadmin
-*[正则表达式](http://louiszhai.github.io/2016/06/13/regexp/)
+    *[正则表达式](http://louiszhai.github.io/2016/06/13/regexp/)
 *[react](https://ant.design/docs/react/introduce)
 *[rem屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md)
 segmentfault.com
