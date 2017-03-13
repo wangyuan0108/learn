@@ -3,18 +3,11 @@
 sass、gulp、 webpack、 swiper.js、 fullpage.js、 superslide.js、 jqMobile、 SenCha Touch、Frozen UI、animate.css、axios、koa、express
 metronic
 coreadmin
-15620791420
-41272219930509004x
-344436616@qq.com
-http://louiszhai.github.io/2016/06/13/regexp/ 正则表达式
-只愿一生爱一人
-https://ant.design/docs/react/introduce  react
-18258801347
-yun826574
-
-https://github.com/hbxeagle/rem/blob/master/README.md
+*[正则表达式](http://louiszhai.github.io/2016/06/13/regexp/)
+*[react](https://ant.design/docs/react/introduce)
+*[rem屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md)
 segmentfault.com
-http://www.zzbaoguan.com/  上线项目
+*[上线项目01](http://www.zzbaoguan.com/)
 http://www.zqrck.com 上线项目
 
 http://www.cnblogs.com/ganmy/p/6029774.html  vue环境搭建
