@@ -34,12 +34,6 @@ coreadmin
 
   [css预编译](http://www.zhangxinxu.com/jq/stylus/)
 
-AppID       wx6bc84180c30734f0
-AppSecret   87f7bdc12cd1e721d99e5efd9d2933c7
-
-
-
-
 如果我用你待我的方式来待你，恐怕你早已离去。
 
 凡事换个角度，假如你是我，你未必有我大度 ！
