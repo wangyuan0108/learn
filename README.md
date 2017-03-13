@@ -3,11 +3,16 @@
 sass、gulp、 webpack、 swiper.js、 fullpage.js、 superslide.js、 jqMobile、 SenCha Touch、Frozen UI、animate.css、axios、koa、express
 metronic
 coreadmin
-    *[正则表达式](http://louiszhai.github.io/2016/06/13/regexp/)
-*[react](https://ant.design/docs/react/introduce)
-*[rem屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md)
-segmentfault.com
-*[上线项目01](http://www.zzbaoguan.com/)
+
+  *[正则表达式](http://louiszhai.github.io/2016/06/13/regexp/)
+
+  *[react](https://ant.design/docs/react/introduce)
+
+  *[rem屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md)
+
+  segmentfault.com
+
+  *[上线项目01](http://www.zzbaoguan.com/)
 http://www.zqrck.com 上线项目
 
 http://www.cnblogs.com/ganmy/p/6029774.html  vue环境搭建
