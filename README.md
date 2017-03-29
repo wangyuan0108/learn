@@ -46,6 +46,17 @@
 
   [css预编译](http://www.zhangxinxu.com/jq/stylus/)
 
+  [markdown](http://note.youdao.com/share/?id=ef01f1f62e0cde2814ad965f9106f5f3&type=note#/)
+
+  [学习方向](https://zhuanlan.zhihu.com/p/25936930?utm_source=qq&utm_medium=social)
+
+  [中文文档参考](http://www.css88.com/nav/)
+
+  [axios第一参考](http://www.jianshu.com/p/4dd17f0ae442)
+
+  [axios第二参考](http://www.kancloud.cn/yunye/axios/234845)
+
+  [elment](http://element.eleme.io/#/zh-CN/guide/design)
 如果我用你待我的方式来待你，恐怕你早已离去。
 
 凡事换个角度，假如你是我，你未必有我大度 ！
